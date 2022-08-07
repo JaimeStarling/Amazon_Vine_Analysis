@@ -13,14 +13,22 @@ The video game review dataset comes from Amazon's [AWS](https://aws.amazon.com/)
 
 ## The Dataset for Vine Reviews
 
-The same video game review dataset was extracted again and transformed to show only products with 20 or more reviews and deemed "helpful" by at least 50% of other customers.
+The same video game review dataset was extracted again and transformed to show only products with 20 or more reviews and deemed "helpful" by at least 50 percent of other customers.
 - This gave us 40,565 reviews to analyze. 
-- Only 94 reviews were from Vine participants.
+- Only 94 reviews were from Vine participants, less than 1 percent of total reviews.
 - The remaining 40,471 were not from Vine participants.
 
 ## Results for Analysis
 
-A simple chart for 
+The highest review possible at Amazon is a "5-Star" and has even determined what is displayed at Amazon's [physical locations](https://www.amazon.com/find-your-store/b/?node=17608448011). A simple chart with totals and percentages below
+
+![This is an image](https://github.com/JaimeStarling/Amazon_Vine_Analysis/blob/main/Del_2_Images/tablefromdel2.png)
+
+shows that of the transformed dataset, 39 percent of the reviews by non-Vine participants were "5-Star." However, the majority (only just!) of reviews by Vine participants were "5-Star." 
+
+## Summary
+
+In politics, a vote of 51 percent is a "mandate," and Amazon algorithms are run on millions of tiny elections for their [350 million](https://www.bigcommerce.com/blog/amazon-statistics/#amazon-everything-to-everybody) products. Participation in the Vine program, for the cost of product, shipping, and any fees, is a decent investment for increasing customer review results, which Amazon suppliers know to "feed the beast" algorithm of showcasing your product.
 
 
 
