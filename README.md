@@ -13,5 +13,14 @@ The video game review dataset comes from Amazon's [AWS](https://aws.amazon.com/)
 
 ## The Dataset for Vine Reviews
 
-The same video game review dataset was extracted again and transformed to show only products with 20 or more reviews and deemed "helpful" by at least 50% of other customers, giving us 40,565 reviews to analyze. We separated the reviews that were Vine participants from those that were not. Only 94 reviews were from Vine participants, the remaining 40,471 were not.
+The same video game review dataset was extracted again and transformed to show only products with 20 or more reviews and deemed "helpful" by at least 50% of other customers.
+- This gave us 40,565 reviews to analyze. 
+- Only 94 reviews were from Vine participants.
+- The remaining 40,471 were not from Vine participants.
+
+## Results for Analysis
+
+A simple chart for 
+
+
 
